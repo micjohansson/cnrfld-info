@@ -1,4 +1,2 @@
-remote_theme: heiswayi/the-plain
-plugins:
-- jekyll-remote-theme
+theme: minimal
 title: Cnrfld Privacy Policy
